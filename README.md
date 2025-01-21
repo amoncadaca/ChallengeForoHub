@@ -77,7 +77,7 @@ Foro Hub es una API REST desarrollada en **Spring Boot** para la gestión de tó
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL-del-repositorio>
+   git clone https://github.com/amoncadaca/ChallengeForoHub.git
    ```
 
 2. Navega al directorio del proyecto:
