@@ -1,6 +1,6 @@
 package com.alura.forohub.forohub.repository;
 
-import com.forohub.model.User;
+import com.alura.forohub.forohub.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

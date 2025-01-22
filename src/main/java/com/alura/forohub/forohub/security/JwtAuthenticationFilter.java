@@ -1,6 +1,6 @@
 package com.alura.forohub.forohub.security;
 
-import com.forohub.service.CustomUserDetailsService;
+import com.alura.forohub.forohub.service.CustomUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;

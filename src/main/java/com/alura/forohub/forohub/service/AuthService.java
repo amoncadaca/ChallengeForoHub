@@ -1,8 +1,8 @@
 package com.alura.forohub.forohub.service;
 
-import com.forohub.dto.AuthRequestDTO;
-import com.forohub.dto.AuthResponseDTO;
-import com.forohub.security.JwtTokenProvider;
+import com.alura.forohub.forohub.dto.AuthRequestDTO;
+import com.alura.forohub.forohub.dto.AuthResponseDTO;
+import com.alura.forohub.forohub.security.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

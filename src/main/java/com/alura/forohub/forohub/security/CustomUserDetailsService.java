@@ -1,7 +1,7 @@
 package com.alura.forohub.forohub.security;
 
-import com.forohub.model.User;
-import com.forohub.repository.UserRepository;
+import com.alura.forohub.forohub.model.User;
+import com.alura.forohub.forohub.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

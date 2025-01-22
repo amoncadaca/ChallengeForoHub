@@ -1,6 +1,6 @@
 package com.alura.forohub.forohub.controller;
 
-import com.alura.forohub.forohub.dto.AuthRequestDTO;
+import com.alura.forohub.forohub.dto.AuthResponseDTO;
 import com.alura.forohub.forohub.dto.AuthResponseDTO;
 import com.alura.forohub.forohub.service.AuthService;
 import org.springframework.beans.factory.annotation.Autowired;
